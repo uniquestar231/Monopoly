@@ -1,0 +1,40 @@
+GO|Collect $200 salary as you pass or land here
+Mediterranean Avenue|Brown property, price $60
+Community Chest|Draw a Community Chest card
+Baltic Avenue|Brown property, price $60
+Income Tax|Pay the Bank $200 or 10% of your money
+Reading Railroad|Railroad, price $200
+Oriental Avenue|Light blue property, price $100
+Chance|Draw a Chance card
+Vermont Avenue|Light blue property, price $100
+Connecticut Avenue|Light blue property, price $120
+Jail / Just Visiting|Just visiting if you land here; in Jail if sent here
+St. Charles Place|Pink property, price $140
+Electric Company|Utility, price $150
+States Avenue|Pink property, price $140
+Virginia Avenue|Pink property, price $160
+Pennsylvania Railroad|Railroad, price $200
+St. James Place|Orange property, price $180
+Community Chest|Draw a Community Chest card
+Tennessee Avenue|Orange property, price $180
+New York Avenue|Orange property, price $200
+Free Parking|Rest here, nothing happens
+Kentucky Avenue|Red property, price $220
+Chance|Draw a Chance card
+Indiana Avenue|Red property, price $220
+Illinois Avenue|Red property, price $240
+B&O Railroad|Railroad, price $200
+Atlantic Avenue|Yellow property, price $260
+Ventnor Avenue|Yellow property, price $260
+Water Works|Utility, price $150
+Marvin Gardens|Yellow property, price $280
+Go To Jail|Go directly to Jail, do not pass GO
+Pacific Avenue|Green property, price $300
+North Carolina Avenue|Green property, price $300
+Community Chest|Draw a Community Chest card
+Pennsylvania Avenue|Green property, price $320
+Short Line Railroad|Railroad, price $200
+Chance|Draw a Chance card
+Park Place|Dark blue property, price $350
+Luxury Tax|Pay the Bank $75
+Boardwalk|Dark blue property, price $400
